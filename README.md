@@ -25,3 +25,6 @@
 
 9️⃣ Build a Python Website in 15 Minutes With Streamlit
 🔗 https://ramdan-website-py.streamlit.app/
+
+🔟 Tic-Tac-Toe Python Project :
+🔗 https://colab.research.google.com/drive/1F3uRJqt80VWfg6e4VcdMLdzG8nYQRZfJ?usp=sharing
